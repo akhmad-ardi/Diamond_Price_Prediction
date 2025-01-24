@@ -1,6 +1,6 @@
 # Diamond Price Prediction
 
-Berikut merupakan fase-fase utama proses analitik dalam metode CRISP-DM:
+Berikut merupakan fase-fase utama proses analitik dalam metode Cross-Industry Standard Process for Data Mining(CRISP-DM):
 
 1. **Business understanding.**
    
